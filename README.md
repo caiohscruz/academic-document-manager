@@ -1,0 +1,1 @@
+[INSTRUÇÃO NORMATIVA Nº 5, DE 14 DE OUTUBRO DE 2022](http://portal.mec.gov.br/diplomadigital/arquivos/in-05-versao-completa-anexos-i-ii-e-iii-v1.05.pdf)

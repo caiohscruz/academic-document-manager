@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{EB2C1B6C-EB86-4865-9679-7E05F2A0FFED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{EA6CCD3E-C2AA-4326-8026-FDE48A82E72E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XsdClass", "XsdClass", "{BFE8619A-6A17-4D17-8883-8EE1615E4AC1}"
+	ProjectSection(SolutionItems) = preProject
+		CurriculoEscolarXSD.cs = CurriculoEscolarXSD.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademicDocManager.Domain", "AcademicDocManager.Domain\AcademicDocManager.Domain.csproj", "{793DEFA7-E2DE-489D-A907-5E9E83531945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793DEFA7-E2DE-489D-A907-5E9E83531945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793DEFA7-E2DE-489D-A907-5E9E83531945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793DEFA7-E2DE-489D-A907-5E9E83531945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793DEFA7-E2DE-489D-A907-5E9E83531945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{793DEFA7-E2DE-489D-A907-5E9E83531945} = {EB2C1B6C-EB86-4865-9679-7E05F2A0FFED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70C6E578-3974-4B20-86D2-D5795C05065B}
+	EndGlobalSection
+EndGlobal
